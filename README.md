@@ -11,12 +11,12 @@ I'm passionate about software engineering, algorithms, and problem-solving. I en
 
 
 ## ⚡ Technologies & Skills
-🌐 Front-end Development: **HTML, CSS, JavaScript**
-🖥️ Back-end Development: **PHP, Python, Java**
-🗄️ Databases: **MySQL, PostgreSQL**
-💻 Programming Languages: **SQL, C**
-🛠️ Development Tools: **Visual Studio Code, XAMPP, PuTTY, DBeaver**
-🔧 Additional Tools: **StarUML, Jupyter Notebook**
+- 🌐 Front-end Development: **HTML, CSS, JavaScript**
+- 🖥️ Back-end Development: **PHP, Python, Java**
+- 🗄️ Databases: **MySQL, PostgreSQL**
+- 💻 Programming Languages: **SQL, C**
+- 🛠️ Development Tools: **Visual Studio Code, XAMPP, PuTTY, DBeaver**
+- 🔧 Additional Tools: **StarUML, Jupyter Notebook**
 
 
 ## 🌍 Languages
