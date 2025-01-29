@@ -1,9 +1,9 @@
 <h2> Hello, I'm Heeyeon! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 #### 🎓 Currently a second-year Computer Science student at Technological University Dublin  
-#### 💻 Aspiring Software Developer 
+#### 💻 Aspiring Software Engineer
 
 
 I'm passionate about software engineering, algorithms, and problem-solving. I enjoy designing efficient and scalable solutions, writing clean and maintainable code, and continuously learning new technologies to improve my skills. My interests lie in developing innovative applications, optimizing performance, and tackling complex challenges through logical thinking and creativity. 🚀
