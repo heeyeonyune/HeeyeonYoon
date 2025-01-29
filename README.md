@@ -5,7 +5,10 @@
 #### 🎓 Currently a second-year Computer Science student at Technological University Dublin  
 #### 💻 Aspiring Software Developer 
 
+
 I'm passionate about software engineering, algorithms, and problem-solving. I enjoy designing efficient and scalable solutions, writing clean and maintainable code, and continuously learning new technologies to improve my skills. My interests lie in developing innovative applications, optimizing performance, and tackling complex challenges through logical thinking and creativity. 🚀
+
+
 
 ## ⚡ Technologies & Skills
 🌐 Front-end Development: **HTML, CSS, JavaScript**
@@ -15,15 +18,17 @@ I'm passionate about software engineering, algorithms, and problem-solving. I en
 🛠️ Development Tools: **Visual Studio Code, XAMPP, PuTTY, DBeaver**
 🔧 Additional Tools: **StarUML, Jupyter Notebook**
 
+
 ## 🌍 Languages
 - **English** - Fluent
 - **Korean** - Native
 
+
 ## 📂 Projects
 Feel free to explore my repositories to find **University Projects, Assignments** and **Personal Projects**.
 
-## 📫 Hello World!!  
 
+## 📫 Hello World!!  
 I'm always open to collaborations and opportunities! Feel free to reach out to me 😊. 
 
 - **Email**: [heeyeon.yune@gmail.com](mailto:heeyeon.yune@gmail.com)  
