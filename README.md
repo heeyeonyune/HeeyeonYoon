@@ -1,6 +1,6 @@
 <h2> Hello, I'm Heeyeon! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200"> 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="180"> 
 
 #### 🎓 Currently a second-year Computer Science student at Technological University Dublin  
 #### 💻 Aspiring Software Engineer
